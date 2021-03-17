@@ -1,0 +1,70 @@
+h1 {
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Space Mono', monospace;
+}
+
+h4 {
+    font-family: 'Space Mono', monospace;
+}
+p {
+font-family: 'Space Mono', monospace;
+
+}
+
+header {
+    text-align: center;
+    top: 40px;
+}
+.section {
+    border: 2px solid black;
+    background-color: #e7e6e6;
+    margin-bottom:10px;
+    text-align: center;
+}
+
+#color{
+border: 1px solid black;
+margin: 20px;
+display:inline-block;
+width: 150px;
+height: 150px;
+padding: 30px auto;
+text-align: center;
+}
+
+.teal{
+background-color: #3ed4ac;
+}
+
+.purple{
+background-color: #7129a1;
+}
+
+.gray {
+background-color: #525252;
+}
+
+.white {
+    background-color: rgb(190, 187, 187);
+}
+
+.space {
+    font-family: 'Space Mono', monospace;
+}
+
+.syne {
+    font-family: 'Syne Mono', monospace;
+}
+
+.roboto {
+    font-family: 'Roboto Mono', monospace;
+}
